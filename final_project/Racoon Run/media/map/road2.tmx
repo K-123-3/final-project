@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="70" height="10" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="5">
- <tileset firstgid="1" source="pixil-frame-0 22.tsx"/>
+ <tileset firstgid="1" source="pixil-frame-0_22.tsx"/>
  <layer id="1" name="Kachelebene 1" width="70" height="10">
   <data encoding="csv">
 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,5,6,7,7,7,7,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,

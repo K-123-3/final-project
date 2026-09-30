@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="70" height="10" tilewidth="160" tileheight="160" infinite="0" nextlayerid="4" nextobjectid="5">
  <tileset firstgid="1" source="bgroad1.tsx"/>
- <tileset firstgid="163" source="pixil-frame-0 13.tsx"/>
- <tileset firstgid="325" source="pixil-frame-0 19.tsx"/>
- <tileset firstgid="461" source="pixil-frame-0 20.tsx"/>
- <tileset firstgid="597" source="pixil-frame-0 18.tsx"/>
+ <tileset firstgid="163" source="pixil-frame-0_13.tsx"/>
+ <tileset firstgid="325" source="pixil-frame-0_19.tsx"/>
+ <tileset firstgid="461" source="pixil-frame-0_20.tsx"/>
+ <tileset firstgid="597" source="pixil-frame-0_18.tsx"/>
  <layer id="1" name="Kachelebene 1" width="70" height="10">
   <data encoding="csv">
 488,488,503,588,589,416,417,274,571,572,274,439,440,274,274,274,274,569,570,274,571,572,505,486,503,506,486,471,505,503,588,589,469,504,506,416,417,274,274,274,569,570,489,506,487,506,505,503,274,274,588,589,505,470,571,572,274,569,570,469,471,504,456,457,505,504,488,416,417,469,
